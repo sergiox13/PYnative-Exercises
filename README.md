@@ -1,1 +1,1 @@
-# PYnative-Exercises
+# PYnative.com Exercises
