@@ -4,7 +4,7 @@ Given two integer numbers return their product only if the product is equal to o
 """
 
 n1 = int(input('n1: '))
-n2 = int(input('n1: '))
+n2 = int(input('n2: '))
 
 product = n1 * n2
 
