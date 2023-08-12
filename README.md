@@ -9,5 +9,7 @@
 
 ## [2. Python String Exercise](https://github.com/sergiox13/PYnative-Exercises/tree/main/Python%20String%20Exercise)
 
+## [3. Python List Exercise](https://github.com/sergiox13/PYnative-Exercises/tree/main/Python%20List%20Exercise)
+
 
 
