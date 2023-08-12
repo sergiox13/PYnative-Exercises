@@ -2,10 +2,11 @@
 Exercise 15: Remove special symbols / punctuation from a string
 """
 
-def remove_special(s):
-    lst = [el for el in s if el.isalpha()]
-    return lst
-
+import string
 
 str1 = "/*Jon is @developer & musician"
-print(remove_special((str1)))
+print("Original string is ", str1)
+
+new_str = str1.translate(str.maketrans('', '', string.punctuation))
+
+print("New string is ", new_str)
